@@ -18,3 +18,5 @@ Exploramos a função $\beta$, densidade total de natalidade, observando seu com
 Para a comparação entre os modelos criados foi nescessário a simulação computacional do modelo encontrado no artigo do Lion, uma vez que o código deste modelo não estava disponível.
 #### Pasta Simulações
 Na pasta Simulações estão armazenados alguns resultados dos testes dos modelos, salvos com extensão npz.
+
+[![DOI](https://zenodo.org/badge/847096681.svg)](https://zenodo.org/doi/10.5281/zenodo.13370383)
