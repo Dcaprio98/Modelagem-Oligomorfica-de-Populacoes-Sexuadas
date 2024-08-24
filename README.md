@@ -16,3 +16,5 @@ Construímos o modelo OMD sexuado com um morfo utilizando linguagem simbólica S
 Exploramos a função $\beta$, densidade total de natalidade, observando seu comportamento baseado nas equações que englobarão o sistema de equações OMD para populações sexuadas;
 #### Modelo Lion
 Para a comparação entre os modelos criados foi nescessário a simulação computacional do modelo encontrado no artigo do Lion, uma vez que o código deste modelo não estava disponível.
+#### Pasta Simulações
+Na pasta Simulações estão armazenados alguns resultados dos testes dos modelos, salvos com extensão npz.
